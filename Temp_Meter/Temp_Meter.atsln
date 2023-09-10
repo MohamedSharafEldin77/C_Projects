@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Temp_Meter", "Temp_Meter\Temp_Meter.cproj", "{EB935B90-A4B9-44B8-AF61-AEDD8D9BC692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB935B90-A4B9-44B8-AF61-AEDD8D9BC692}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EB935B90-A4B9-44B8-AF61-AEDD8D9BC692}.Debug|AVR.Build.0 = Debug|AVR
+		{EB935B90-A4B9-44B8-AF61-AEDD8D9BC692}.Release|AVR.ActiveCfg = Release|AVR
+		{EB935B90-A4B9-44B8-AF61-AEDD8D9BC692}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
